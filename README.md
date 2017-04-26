@@ -79,7 +79,7 @@ Emits event *error* on failure to initialize. Add a listener to this event to ha
 Factory method , returns the driver specific **QueryBuilder**.
 
 **QueryBuilder** , provides a fluent API for query building. Refer to the QueryBuilder API for query building.
-[Contribution guidelines for this project](querybuilder.md)
+[QueryBuilder fluent api](QueryBuilder.md)
 
 ###### Return:
 
